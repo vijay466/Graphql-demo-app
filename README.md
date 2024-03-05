@@ -1,1 +1,1 @@
-The application is a React frontend connected to a Node.js backend via GraphQL. Users input a GitHub username, triggering a query to the backend, which fetches and returns user details from the GitHub API. The React frontend then displays these details to the user.
+This application is a React frontend connected to a Node.js backend via GraphQL. Users input a GitHub username, triggering a query to the backend, which fetches and returns user details from the GitHub API. The React frontend then displays these details to the user.
